@@ -27,6 +27,9 @@ This commands includes
 <BR>
 
 ## Output
+![image](https://github.com/user-attachments/assets/dac7c0c2-c45b-4af8-99e4-e132872039ad)
+![image](https://github.com/user-attachments/assets/4a4bad24-fd10-4e3b-885f-942eec9fedf1)
+![image](https://github.com/user-attachments/assets/599c8600-ece5-4e63-8421-1b791fb3c512)
 
 ## Result
 Thus Execution of Network commands Performed 
